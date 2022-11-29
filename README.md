@@ -7,11 +7,25 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 ## Results
 
-### Future Job Openings
-After conducting the analysis it was found that there is currently a large number of employees of retirement age holding senior titles (57,668/90,398 = 64%) with around 64% of the staff to retire. Please reference the Unique Titles table below. 
+Upon analysis of the data provided by Pewlett-Hackard, we retrieved the number of employees who are retiring, and sorted by position title.
 
-### Mentorship Candidates
-Below is the list of candidates that can qualify to become members of the mentorship program, they can be referenced as senior employees amongst the general staff. 
+retiring_titles
+
+The number of employees retiring per position title.
+After pulling the number of employees who are retiring, sorted by position title, we investigated mentorship eligibility in the company. Our parameters were employees who are currently employed with Pewlett-Hackard, and born in 1965.
+
+After conducting the analysis it was found that there is currently a large number of employees of retirement age holding senior titles (57,668/90,398 = 64%) with around 64% of the staff to retire. 
+
+mentorship_eligibility
+
+The number of employees eligible for the mentorship program, per position title.
+Reviewing these two lists, there are a number of conclusions we can draw.
+
+The largest number of positions being vacated via retirement are the Senior Engineers and the Senior Staff. These are more than 20,000 employees each.
+Comparing the number to those eligible for the mentorship program, the numbers are much smaller. There are no positions where more than 1,000 employees are eligible for the mentorship program.
+
+We can also see that there are no employees eligible to participate in the mentorship program for the position of manager.
+To address the large gap of eligible employees to the retirement-ready employees, Pewlett-Hackard may want to look into expanding their eligibility requirements for the program, and/or begin the process of hiring more employees for those positions.
 
 ## Summary
 
