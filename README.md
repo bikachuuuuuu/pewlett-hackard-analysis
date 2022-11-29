@@ -9,14 +9,14 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 Upon analysis of the data provided by Pewlett-Hackard, we retrieved the number of employees who are retiring, and sorted by position title.
 
-retiring_titles
+![img1](https://github.com/bikachuuuuuu/pewlett-hackard-analysis/blob/main/Resources/img1.png?raw=true)
 
 The number of employees retiring per position title.
 After pulling the number of employees who are retiring, sorted by position title, we investigated mentorship eligibility in the company. Our parameters were employees who are currently employed with Pewlett-Hackard, and born in 1965.
 
 After conducting the analysis it was found that there is currently a large number of employees of retirement age holding senior titles (57,668/90,398 = 64%) with around 64% of the staff to retire. 
 
-mentorship_eligibility
+![img2](https://github.com/bikachuuuuuu/pewlett-hackard-analysis/blob/main/Resources/img2.png?raw=true)
 
 The number of employees eligible for the mentorship program, per position title.
 Reviewing these two lists, there are a number of conclusions we can draw.
